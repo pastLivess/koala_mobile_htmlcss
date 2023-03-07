@@ -1,0 +1,14 @@
+.section_icon {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section_icon .image_wrap {
+  display: flex;
+  height: 20.83333vw;
+}
+.section_icon .image_wrap > img {
+  flex-grow: 1;
+  height: 20.8333vw;
+}
